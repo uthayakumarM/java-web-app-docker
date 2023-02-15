@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Google Chrome Page , Continous , Contarceptual</h2>
+			<h2>Welcome To Google Chrome Page , Continous , Contraceptual</h2>
 			<h3>Contact @ +960-7893214,+91-78697458795</h3>
 		</div>	
 	</div>
@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Mithun Technologies 2019</p>
+		<p>&copy; Roarringggg Successsss Now No Wayyyyy</p>
 	</footer>
 </div>
 
